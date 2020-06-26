@@ -1,0 +1,1 @@
+# BazyDanych - PentahoDataIntegration i PentahoRaportDesigner 

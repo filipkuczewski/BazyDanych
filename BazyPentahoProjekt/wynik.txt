@@ -1,0 +1,433 @@
+bran¿a|lokalizacja|p³eæ|id|Wiek Zatrudnionych|Przedzia³ wiekowy
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|15-24 lat|9223
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|25-34 lat|18168
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|35-44 lat|26442
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|45-54 lat|31696
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|55-64 lat|13427
+Rolnictwo, ³owiectwo i leœnictwo|miasta|m|1|65 i starsi|7736
+Rybo³ówstwo i rybactwo|miasta|m|2|15-24 lat|258
+Rybo³ówstwo i rybactwo|miasta|m|2|25-34 lat|984
+Rybo³ówstwo i rybactwo|miasta|m|2|35-44 lat|1558
+Rybo³ówstwo i rybactwo|miasta|m|2|45-54 lat|2421
+Rybo³ówstwo i rybactwo|miasta|m|2|55-64 lat|380
+Rybo³ówstwo i rybactwo|miasta|m|2|65 i starsi|64
+Górnictwo i kopalnictwo|miasta|m|3|15-24 lat|3722
+Górnictwo i kopalnictwo|miasta|m|3|25-34 lat|37409
+Górnictwo i kopalnictwo|miasta|m|3|35-44 lat|69346
+Górnictwo i kopalnictwo|miasta|m|3|45-54 lat|35418
+Górnictwo i kopalnictwo|miasta|m|3|55-64 lat|4618
+Górnictwo i kopalnictwo|miasta|m|3|65 i starsi|181
+Przetwórstwo przemys³owe|miasta|m|4|15-24 lat|106368
+Przetwórstwo przemys³owe|miasta|m|4|25-34 lat|295239
+Przetwórstwo przemys³owe|miasta|m|4|35-44 lat|263605
+Przetwórstwo przemys³owe|miasta|m|4|45-54 lat|289759
+Przetwórstwo przemys³owe|miasta|m|4|55-64 lat|69358
+Przetwórstwo przemys³owe|miasta|m|4|65 i starsi|9886
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|15-24 lat|3510
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|25-34 lat|28297
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|35-44 lat|40201
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|45-54 lat|41854
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|55-64 lat|12027
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|m|5|65 i starsi|706
+Budownictwo|miasta|m|6|15-24 lat|35804
+Budownictwo|miasta|m|6|25-34 lat|107884
+Budownictwo|miasta|m|6|35-44 lat|125163
+Budownictwo|miasta|m|6|45-54 lat|142197
+Budownictwo|miasta|m|6|55-64 lat|30423
+Budownictwo|miasta|m|6|65 i starsi|3854
+Handel i naprawy|miasta|m|7|15-24 lat|93963
+Handel i naprawy|miasta|m|7|25-34 lat|221295
+Handel i naprawy|miasta|m|7|35-44 lat|161881
+Handel i naprawy|miasta|m|7|45-54 lat|141239
+Handel i naprawy|miasta|m|7|55-64 lat|37400
+Handel i naprawy|miasta|m|7|65 i starsi|8457
+Hotele i restauracje|miasta|m|8|15-24 lat|16108
+Hotele i restauracje|miasta|m|8|25-34 lat|18634
+Hotele i restauracje|miasta|m|8|35-44 lat|11839
+Hotele i restauracje|miasta|m|8|45-54 lat|10175
+Hotele i restauracje|miasta|m|8|55-64 lat|3262
+Hotele i restauracje|miasta|m|8|65 i starsi|708
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|15-24 lat|22506
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|25-34 lat|107026
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|35-44 lat|130785
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|45-54 lat|136846
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|55-64 lat|33182
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|m|9|65 i starsi|4505
+Poœrednictwo finansowe|miasta|m|10|15-24 lat|7295
+Poœrednictwo finansowe|miasta|m|10|25-34 lat|32795
+Poœrednictwo finansowe|miasta|m|10|35-44 lat|18957
+Poœrednictwo finansowe|miasta|m|10|45-54 lat|15166
+Poœrednictwo finansowe|miasta|m|10|55-64 lat|5356
+Poœrednictwo finansowe|miasta|m|10|65 i starsi|871
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|15-24 lat|30423
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|25-34 lat|91876
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|35-44 lat|67308
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|45-54 lat|84737
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|55-64 lat|41120
+Obs³uga nieruchomoœci i firm; nauka|miasta|m|11|65 i starsi|10791
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|15-24 lat|44186
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|25-34 lat|116622
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|35-44 lat|97454
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|45-54 lat|64114
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|55-64 lat|20848
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|m|12|65 i starsi|3585
+Edukacja|miasta|m|13|15-24 lat|5839
+Edukacja|miasta|m|13|25-34 lat|38820
+Edukacja|miasta|m|13|35-44 lat|41176
+Edukacja|miasta|m|13|45-54 lat|50760
+Edukacja|miasta|m|13|55-64 lat|28373
+Edukacja|miasta|m|13|65 i starsi|8795
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|15-24 lat|5852
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|25-34 lat|29604
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|35-44 lat|36281
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|45-54 lat|32845
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|55-64 lat|13861
+Ochrona zdrowia i opieka spo³eczna|miasta|m|14|65 i starsi|6393
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|15-24 lat|12295
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|25-34 lat|39450
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|35-44 lat|41215
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|45-54 lat|42883
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|55-64 lat|17830
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|m|15|65 i starsi|6245
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|15-24 lat|17
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|25-34 lat|36
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|35-44 lat|50
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|45-54 lat|48
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|55-64 lat|26
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|m|16|65 i starsi|6
+Organizacje i zespo³y eksterytorialne|miasta|m|17|15-24 lat|3
+Organizacje i zespo³y eksterytorialne|miasta|m|17|25-34 lat|17
+Organizacje i zespo³y eksterytorialne|miasta|m|17|35-44 lat|22
+Organizacje i zespo³y eksterytorialne|miasta|m|17|45-54 lat|19
+Organizacje i zespo³y eksterytorialne|miasta|m|17|55-64 lat|10
+Organizacje i zespo³y eksterytorialne|miasta|m|17|65 i starsi|2
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|15-24 lat|2648
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|25-34 lat|4155
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|35-44 lat|3927
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|45-54 lat|4201
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|55-64 lat|1676
+Nieustalony rodzaj dzia³alnoœci|miasta|m|18|65 i starsi|959
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|15-24 lat|4771
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|25-34 lat|11418
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|35-44 lat|19136
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|45-54 lat|23377
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|55-64 lat|8199
+Rolnictwo, ³owiectwo i leœnictwo|miasta|k|19|65 i starsi|5562
+Rybo³ówstwo i rybactwo|miasta|k|20|15-24 lat|29
+Rybo³ówstwo i rybactwo|miasta|k|20|25-34 lat|104
+Rybo³ówstwo i rybactwo|miasta|k|20|35-44 lat|220
+Rybo³ówstwo i rybactwo|miasta|k|20|45-54 lat|347
+Rybo³ówstwo i rybactwo|miasta|k|20|55-64 lat|51
+Rybo³ówstwo i rybactwo|miasta|k|20|65 i starsi|10
+Górnictwo i kopalnictwo|miasta|k|21|15-24 lat|225
+Górnictwo i kopalnictwo|miasta|k|21|25-34 lat|3216
+Górnictwo i kopalnictwo|miasta|k|21|35-44 lat|7631
+Górnictwo i kopalnictwo|miasta|k|21|45-54 lat|9218
+Górnictwo i kopalnictwo|miasta|k|21|55-64 lat|725
+Górnictwo i kopalnictwo|miasta|k|21|65 i starsi|23
+Przetwórstwo przemys³owe|miasta|k|22|15-24 lat|49298
+Przetwórstwo przemys³owe|miasta|k|22|25-34 lat|163780
+Przetwórstwo przemys³owe|miasta|k|22|35-44 lat|185379
+Przetwórstwo przemys³owe|miasta|k|22|45-54 lat|186816
+Przetwórstwo przemys³owe|miasta|k|22|55-64 lat|22063
+Przetwórstwo przemys³owe|miasta|k|22|65 i starsi|3181
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|15-24 lat|1057
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|25-34 lat|6684
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|35-44 lat|12730
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|45-54 lat|17994
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|55-64 lat|2345
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|miasta|k|23|65 i starsi|91
+Budownictwo|miasta|k|24|15-24 lat|4648
+Budownictwo|miasta|k|24|25-34 lat|14713
+Budownictwo|miasta|k|24|35-44 lat|15745
+Budownictwo|miasta|k|24|45-54 lat|23663
+Budownictwo|miasta|k|24|55-64 lat|3717
+Budownictwo|miasta|k|24|65 i starsi|465
+Handel i naprawy|miasta|k|25|15-24 lat|120488
+Handel i naprawy|miasta|k|25|25-34 lat|219034
+Handel i naprawy|miasta|k|25|35-44 lat|182748
+Handel i naprawy|miasta|k|25|45-54 lat|174343
+Handel i naprawy|miasta|k|25|55-64 lat|35515
+Handel i naprawy|miasta|k|25|65 i starsi|7325
+Hotele i restauracje|miasta|k|26|15-24 lat|23344
+Hotele i restauracje|miasta|k|26|25-34 lat|27351
+Hotele i restauracje|miasta|k|26|35-44 lat|25853
+Hotele i restauracje|miasta|k|26|45-54 lat|27705
+Hotele i restauracje|miasta|k|26|55-64 lat|5084
+Hotele i restauracje|miasta|k|26|65 i starsi|820
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|15-24 lat|12373
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|25-34 lat|43327
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|35-44 lat|53029
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|45-54 lat|57816
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|55-64 lat|6487
+Transport, gospodarka magazynowa i ³¹cznoœæ|miasta|k|27|65 i starsi|559
+Poœrednictwo finansowe|miasta|k|28|15-24 lat|16210
+Poœrednictwo finansowe|miasta|k|28|25-34 lat|57493
+Poœrednictwo finansowe|miasta|k|28|35-44 lat|44461
+Poœrednictwo finansowe|miasta|k|28|45-54 lat|44940
+Poœrednictwo finansowe|miasta|k|28|55-64 lat|5523
+Poœrednictwo finansowe|miasta|k|28|65 i starsi|450
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|15-24 lat|23382
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|25-34 lat|67867
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|35-44 lat|69649
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|45-54 lat|91540
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|55-64 lat|20059
+Obs³uga nieruchomoœci i firm; nauka|miasta|k|29|65 i starsi|3577
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|15-24 lat|34286
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|25-34 lat|82636
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|35-44 lat|85841
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|45-54 lat|101899
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|55-64 lat|18834
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|miasta|k|30|65 i starsi|1483
+Edukacja|miasta|k|31|15-24 lat|17451
+Edukacja|miasta|k|31|25-34 lat|122633
+Edukacja|miasta|k|31|35-44 lat|155610
+Edukacja|miasta|k|31|45-54 lat|154808
+Edukacja|miasta|k|31|55-64 lat|37544
+Edukacja|miasta|k|31|65 i starsi|4062
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|15-24 lat|17634
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|25-34 lat|137688
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|35-44 lat|208493
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|45-54 lat|187592
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|55-64 lat|33025
+Ochrona zdrowia i opieka spo³eczna|miasta|k|32|65 i starsi|6147
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|15-24 lat|22840
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|25-34 lat|44377
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|35-44 lat|41935
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|45-54 lat|49984
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|55-64 lat|14785
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|miasta|k|33|65 i starsi|3367
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|15-24 lat|734
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|25-34 lat|864
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|35-44 lat|720
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|45-54 lat|1006
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|55-64 lat|278
+Gospodarstwa domowe zatrudniaj¹ce pracowników|miasta|k|34|65 i starsi|71
+Organizacje i zespo³y eksterytorialne|miasta|k|35|15-24 lat|6
+Organizacje i zespo³y eksterytorialne|miasta|k|35|25-34 lat|41
+Organizacje i zespo³y eksterytorialne|miasta|k|35|35-44 lat|21
+Organizacje i zespo³y eksterytorialne|miasta|k|35|45-54 lat|18
+Organizacje i zespo³y eksterytorialne|miasta|k|35|55-64 lat|6
+Organizacje i zespo³y eksterytorialne|miasta|k|35|65 i starsi|3
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|15-24 lat|2548
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|25-34 lat|3412
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|35-44 lat|3072
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|45-54 lat|3516
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|55-64 lat|1460
+Nieustalony rodzaj dzia³alnoœci|miasta|k|36|65 i starsi|1008
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|15-24 lat|135265
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|25-34 lat|197052
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|35-44 lat|281878
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|45-54 lat|301267
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|55-64 lat|143788
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|m|37|65 i starsi|102950
+Rybo³ówstwo i rybactwo|wieœ|m|38|15-24 lat|258
+Rybo³ówstwo i rybactwo|wieœ|m|38|25-34 lat|792
+Rybo³ówstwo i rybactwo|wieœ|m|38|35-44 lat|1157
+Rybo³ówstwo i rybactwo|wieœ|m|38|45-54 lat|1264
+Rybo³ówstwo i rybactwo|wieœ|m|38|55-64 lat|266
+Rybo³ówstwo i rybactwo|wieœ|m|38|65 i starsi|53
+Górnictwo i kopalnictwo|wieœ|m|39|15-24 lat|1310
+Górnictwo i kopalnictwo|wieœ|m|39|25-34 lat|15833
+Górnictwo i kopalnictwo|wieœ|m|39|35-44 lat|26120
+Górnictwo i kopalnictwo|wieœ|m|39|45-54 lat|11234
+Górnictwo i kopalnictwo|wieœ|m|39|55-64 lat|1431
+Górnictwo i kopalnictwo|wieœ|m|39|65 i starsi|47
+Przetwórstwo przemys³owe|wieœ|m|40|15-24 lat|96703
+Przetwórstwo przemys³owe|wieœ|m|40|25-34 lat|203714
+Przetwórstwo przemys³owe|wieœ|m|40|35-44 lat|155347
+Przetwórstwo przemys³owe|wieœ|m|40|45-54 lat|102981
+Przetwórstwo przemys³owe|wieœ|m|40|55-64 lat|16392
+Przetwórstwo przemys³owe|wieœ|m|40|65 i starsi|1759
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|15-24 lat|1479
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|25-34 lat|11212
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|35-44 lat|16041
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|45-54 lat|11088
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|55-64 lat|2528
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|m|41|65 i starsi|122
+Budownictwo|wieœ|m|42|15-24 lat|33166
+Budownictwo|wieœ|m|42|25-34 lat|88116
+Budownictwo|wieœ|m|42|35-44 lat|82288
+Budownictwo|wieœ|m|42|45-54 lat|54152
+Budownictwo|wieœ|m|42|55-64 lat|7558
+Budownictwo|wieœ|m|42|65 i starsi|536
+Handel i naprawy|wieœ|m|43|15-24 lat|42866
+Handel i naprawy|wieœ|m|43|25-34 lat|79969
+Handel i naprawy|wieœ|m|43|35-44 lat|58466
+Handel i naprawy|wieœ|m|43|45-54 lat|38820
+Handel i naprawy|wieœ|m|43|55-64 lat|7758
+Handel i naprawy|wieœ|m|43|65 i starsi|1286
+Hotele i restauracje|wieœ|m|44|15-24 lat|4632
+Hotele i restauracje|wieœ|m|44|25-34 lat|4946
+Hotele i restauracje|wieœ|m|44|35-44 lat|4026
+Hotele i restauracje|wieœ|m|44|45-54 lat|3285
+Hotele i restauracje|wieœ|m|44|55-64 lat|886
+Hotele i restauracje|wieœ|m|44|65 i starsi|188
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|15-24 lat|10970
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|25-34 lat|52941
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|35-44 lat|68725
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|45-54 lat|44380
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|55-64 lat|6447
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|m|45|65 i starsi|389
+Poœrednictwo finansowe|wieœ|m|46|15-24 lat|1361
+Poœrednictwo finansowe|wieœ|m|46|25-34 lat|4921
+Poœrednictwo finansowe|wieœ|m|46|35-44 lat|3195
+Poœrednictwo finansowe|wieœ|m|46|45-54 lat|2327
+Poœrednictwo finansowe|wieœ|m|46|55-64 lat|695
+Poœrednictwo finansowe|wieœ|m|46|65 i starsi|96
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|15-24 lat|7822
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|25-34 lat|19558
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|35-44 lat|16520
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|45-54 lat|14746
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|55-64 lat|4635
+Obs³uga nieruchomoœci i firm; nauka|wieœ|m|47|65 i starsi|625
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|15-24 lat|39658
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|25-34 lat|40180
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|35-44 lat|32400
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|45-54 lat|17245
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|55-64 lat|4506
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|m|48|65 i starsi|863
+Edukacja|wieœ|m|49|15-24 lat|1730
+Edukacja|wieœ|m|49|25-34 lat|10417
+Edukacja|wieœ|m|49|35-44 lat|16106
+Edukacja|wieœ|m|49|45-54 lat|13622
+Edukacja|wieœ|m|49|55-64 lat|4329
+Edukacja|wieœ|m|49|65 i starsi|516
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|15-24 lat|1758
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|25-34 lat|7597
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|35-44 lat|11176
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|45-54 lat|8727
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|55-64 lat|2443
+Ochrona zdrowia i opieka spo³eczna|wieœ|m|50|65 i starsi|723
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|15-24 lat|3940
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|25-34 lat|12603
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|35-44 lat|16952
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|45-54 lat|14626
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|55-64 lat|4689
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|m|51|65 i starsi|1969
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|15-24 lat|13
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|25-34 lat|24
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|35-44 lat|39
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|45-54 lat|36
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|55-64 lat|6
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|m|52|65 i starsi|4
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|15-24 lat|0
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|25-34 lat|4
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|35-44 lat|3
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|45-54 lat|4
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|55-64 lat|1
+Organizacje i zespo³y eksterytorialne|wieœ|m|53|65 i starsi|0
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|15-24 lat|2295
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|25-34 lat|1632
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|35-44 lat|1468
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|45-54 lat|1224
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|55-64 lat|756
+Nieustalony rodzaj dzia³alnoœci|wieœ|m|54|65 i starsi|850
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|15-24 lat|75760
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|25-34 lat|165749
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|35-44 lat|226112
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|45-54 lat|238250
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|55-64 lat|110819
+Rolnictwo, ³owiectwo i leœnictwo|wieœ|k|55|65 i starsi|91216
+Rybo³ówstwo i rybactwo|wieœ|k|56|15-24 lat|27
+Rybo³ówstwo i rybactwo|wieœ|k|56|25-34 lat|104
+Rybo³ówstwo i rybactwo|wieœ|k|56|35-44 lat|193
+Rybo³ówstwo i rybactwo|wieœ|k|56|45-54 lat|232
+Rybo³ówstwo i rybactwo|wieœ|k|56|55-64 lat|39
+Rybo³ówstwo i rybactwo|wieœ|k|56|65 i starsi|7
+Górnictwo i kopalnictwo|wieœ|k|57|15-24 lat|93
+Górnictwo i kopalnictwo|wieœ|k|57|25-34 lat|889
+Górnictwo i kopalnictwo|wieœ|k|57|35-44 lat|2074
+Górnictwo i kopalnictwo|wieœ|k|57|45-54 lat|1825
+Górnictwo i kopalnictwo|wieœ|k|57|55-64 lat|119
+Górnictwo i kopalnictwo|wieœ|k|57|65 i starsi|8
+Przetwórstwo przemys³owe|wieœ|k|58|15-24 lat|43120
+Przetwórstwo przemys³owe|wieœ|k|58|25-34 lat|100733
+Przetwórstwo przemys³owe|wieœ|k|58|35-44 lat|92465
+Przetwórstwo przemys³owe|wieœ|k|58|45-54 lat|54327
+Przetwórstwo przemys³owe|wieœ|k|58|55-64 lat|4001
+Przetwórstwo przemys³owe|wieœ|k|58|65 i starsi|408
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|15-24 lat|248
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|25-34 lat|1399
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|35-44 lat|2416
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|45-54 lat|2131
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|55-64 lat|235
+Wytwarzanie i zaopatrywanie w energiê elektryczn¹, gaz i wodê|wieœ|k|59|65 i starsi|11
+Budownictwo|wieœ|k|60|15-24 lat|1502
+Budownictwo|wieœ|k|60|25-34 lat|3325
+Budownictwo|wieœ|k|60|35-44 lat|3305
+Budownictwo|wieœ|k|60|45-54 lat|3098
+Budownictwo|wieœ|k|60|55-64 lat|352
+Budownictwo|wieœ|k|60|65 i starsi|41
+Handel i naprawy|wieœ|k|61|15-24 lat|66961
+Handel i naprawy|wieœ|k|61|25-34 lat|86413
+Handel i naprawy|wieœ|k|61|35-44 lat|66278
+Handel i naprawy|wieœ|k|61|45-54 lat|43140
+Handel i naprawy|wieœ|k|61|55-64 lat|5983
+Handel i naprawy|wieœ|k|61|65 i starsi|1047
+Hotele i restauracje|wieœ|k|62|15-24 lat|13740
+Hotele i restauracje|wieœ|k|62|25-34 lat|14406
+Hotele i restauracje|wieœ|k|62|35-44 lat|12397
+Hotele i restauracje|wieœ|k|62|45-54 lat|9026
+Hotele i restauracje|wieœ|k|62|55-64 lat|1212
+Hotele i restauracje|wieœ|k|62|65 i starsi|200
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|15-24 lat|3694
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|25-34 lat|14072
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|35-44 lat|20684
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|45-54 lat|13609
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|55-64 lat|930
+Transport, gospodarka magazynowa i ³¹cznoœæ|wieœ|k|63|65 i starsi|72
+Poœrednictwo finansowe|wieœ|k|64|15-24 lat|4736
+Poœrednictwo finansowe|wieœ|k|64|25-34 lat|11482
+Poœrednictwo finansowe|wieœ|k|64|35-44 lat|10682
+Poœrednictwo finansowe|wieœ|k|64|45-54 lat|8572
+Poœrednictwo finansowe|wieœ|k|64|55-64 lat|780
+Poœrednictwo finansowe|wieœ|k|64|65 i starsi|52
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|15-24 lat|5552
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|25-34 lat|11868
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|35-44 lat|12276
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|45-54 lat|11701
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|55-64 lat|1653
+Obs³uga nieruchomoœci i firm; nauka|wieœ|k|65|65 i starsi|188
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|15-24 lat|22073
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|25-34 lat|28023
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|35-44 lat|26985
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|45-54 lat|23201
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|55-64 lat|3036
+Administracja publiczna i obrona narodowa; obowi¹zkowe ubezpieczenia spo³eczne i zdrowotne|wieœ|k|66|65 i starsi|205
+Edukacja|wieœ|k|67|15-24 lat|6896
+Edukacja|wieœ|k|67|25-34 lat|47463
+Edukacja|wieœ|k|67|35-44 lat|69713
+Edukacja|wieœ|k|67|45-54 lat|47496
+Edukacja|wieœ|k|67|55-64 lat|7265
+Edukacja|wieœ|k|67|65 i starsi|280
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|15-24 lat|7968
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|25-34 lat|49480
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|35-44 lat|65188
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|45-54 lat|42528
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|55-64 lat|4299
+Ochrona zdrowia i opieka spo³eczna|wieœ|k|68|65 i starsi|395
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|15-24 lat|10209
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|25-34 lat|11815
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|35-44 lat|10928
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|45-54 lat|9241
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|55-64 lat|1586
+Pozosta³a dzia³alnoœæ us³ugowa komunalna, spo³eczna i indywidualna|wieœ|k|69|65 i starsi|291
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|15-24 lat|718
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|25-34 lat|942
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|35-44 lat|486
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|45-54 lat|436
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|55-64 lat|104
+Gospodarstwa domowe zatrudniaj¹ce pracowników|wieœ|k|70|65 i starsi|49
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|15-24 lat|1
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|25-34 lat|6
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|35-44 lat|2
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|45-54 lat|2
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|55-64 lat|0
+Organizacje i zespo³y eksterytorialne|wieœ|k|71|65 i starsi|0
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|15-24 lat|1643
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|25-34 lat|1298
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|35-44 lat|1195
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|45-54 lat|1044
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|55-64 lat|863
+Nieustalony rodzaj dzia³alnoœci|wieœ|k|72|65 i starsi|1092
